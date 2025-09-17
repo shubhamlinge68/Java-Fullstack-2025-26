@@ -1,0 +1,118 @@
+.all{
+    color: red;
+    font-size: 50px;
+}
+.head{
+    background-color: rgb(22, 170, 22);
+  
+}
+.head-2{
+    display: flex;
+    
+}
+
+.h{
+    margin-left: 20px;
+    color: white;
+   margin-bottom: 20px;
+   margin-top: 5px;
+    height: 20px;
+}
+
+.sig{
+    height: 25px;
+    margin-top: 12px;
+    margin-left: 1400px;
+    width: 80px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.sig:hover{
+    transform: scale(1.1);
+    box-shadow: 5px 5px 10px rgb(1, 243, 243);
+}
+
+.log{
+    height: 25px;
+    margin-top: 12px;
+    margin-left: 20px;
+    width: 80px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.log:hover{
+    transform: scale(1.1);
+    box-shadow: 5px 5px 10px rgb(1, 243, 243);
+}
+.head-3{
+    border: 1px solid;
+    margin-top: 40px;
+    margin-left: 650px;
+    width: 500px;
+    box-shadow: 5px 8px 15px lightseagreen;
+}
+.h2{
+    color: green;
+    padding: 15px;
+    margin-top: -3px;
+    
+}
+
+.subtext{
+    margin-top: -15px;
+    margin-left: 20px;
+    display: flex;  
+}
+input::placeholder{
+    text-align: center;
+}
+.mail{
+    margin-left: 20px;
+    margin-top: 15px;
+    
+}
+.subtext-2{
+    margin-top: 15px;
+    margin-left: 20px;
+    display: flex;  
+}
+.rad{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+.cont{
+    margin-top: 15px;
+    margin-left: 20px;
+    display: flex;
+}
+.box{
+    width: 450px;
+    margin-left: 20px;
+    height: 40px;
+    margin-top: -7px;
+}
+.ck{
+    margin-left: 20px;
+    margin-top: 15px;
+    display: flex;
+}
+
+.but-2{
+    margin-left: 360px;
+    width: 110px;
+    background-color: green;
+    color: white;
+    margin-bottom: 15px;
+    border: 1px solid green;
+    font-size: 20px;
+    text-align: center;
+    
+}
+.but-2:hover{
+    transform: scale(1.1);
+    box-shadow: 5px 5px 10px rgb(1, 243, 243);
+}

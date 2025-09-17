@@ -1,0 +1,142 @@
+.head{
+    background-color: rgb(22, 170, 22);
+  
+}
+.head-2{
+    display: flex;
+    
+}
+
+.h{
+    margin-left: 20px;
+    color: white;
+   margin-bottom: 20px;
+   margin-top: 5px;
+    height: 20px;
+}
+
+.sig{
+    height: 25px;
+    margin-top: 12px;
+    margin-left: 1400px;
+    width: 80px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.sig:hover{
+    transform: scale(1.1);
+    box-shadow: 5px 5px 10px rgb(1, 243, 243);
+}
+
+.log{
+    height: 25px;
+    margin-top: 12px;
+    margin-left: 20px;
+    width: 80px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.log:hover{
+    transform: scale(1.1);
+    box-shadow: 5px 5px 10px rgb(1, 243, 243);
+}
+
+.cat{
+    font-size: 20px;
+    font-weight: bold;
+    border: 1px solid;
+    width: 300px;
+    height: 100px;
+}
+.cat-2{
+    font-size: 20px;
+    font-weight: bold;
+    border: 1px solid;
+    width: 300px;
+    margin-top: -1080px;
+}
+
+.cat-3{
+    
+    border: 1px solid;
+    width: 300px;
+}
+.ser{
+    width: 240px;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 2px solid;
+}
+.all-2{
+    display: flex;
+}
+
+.all{
+    display: flex;
+    margin-left: 30px;
+}
+.img-1{
+    border: 1px solid;
+  border-radius: 15px 15px 15px 15px ;
+  box-shadow: 10px 10px 8px gray;
+  margin-left: 40px;
+}
+
+.subimg-1{
+    border: 1px solid;
+   margin: 30px;
+   margin-top: -13px;
+  }
+  .ptag-1{
+    margin-top: 7px;
+    margin-left: 28px;
+    font-size: 20px;
+    font-weight: bold;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .select{
+    margin-top: 20px;
+    margin-left: 80px;
+  }
+  .link{
+    margin-left: 74px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 7px;
+    margin-bottom: 8px
+  }
+  .img-2{
+    margin-left: 30px;
+    border: 1px solid;
+  border-radius: 15px 15px 15px 15px ;
+  box-shadow: 10px 10px 8px gray;
+  
+  
+  }
+  .img-3{
+    width: 265px;
+    margin-left: 370px;
+    margin-top: 30px;
+    border: 1px solid;
+    border-radius: 15px;
+    box-shadow: 5px 5px 25px;
+
+  }
+  .img-4{
+    width: 265px;
+    margin-left: 30px;
+    margin-top: 30px;
+    border: 1px solid;
+    border-radius: 15px;
+    box-shadow: 5px 5px 25px;
+
+  }
+  .afg{
+    display: flex;
+  }
+  
+  
+  
